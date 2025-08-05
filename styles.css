@@ -63,7 +63,7 @@ main img{
 
 footer{
     text-align: center;
-    font-size: 12px;
+    font-size: 0.75em !important;
 }
 
 footer p a{
